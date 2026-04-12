@@ -16,4 +16,9 @@ Did statistical analysis --> Calculated Mean and SD to find Z scores to standard
 __Method for CDC Disease Analysis__
 - Created a CSV file with zipcodes for each County in Colroado
 - CDC File --> https://data.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb/about_data
-- 
+
+  Filtered CDC Data on the website to only include zipcodes that start with 802 because that is Denver zipcodes 
+- Phases:
+  Cleaned Data in SQL
+  Joined data in SQL
+  Exported to Excel for data analysis
