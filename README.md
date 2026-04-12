@@ -1,1 +1,16 @@
-Project Overview
+__Project Overview__
+
+We investigated whether historical redlining in the city of Denver predicted current neighborhood equity scores. To clarify our results, we utilized CDC data to determine whether redlining predicted specific diseases based on zipcodes.
+
+
+__Method for Equity Analysis__ 
+- Equity Data --> https://opendata-geospatialdenver.hub.arcgis.com/datasets/f298a05190724b0aaf7f6a76f260aa7d_298/explore?location=39.854677%2C-105.270802%2C9
+- Redlining Data --> https://dsl.richmond.edu/panorama/redlining/data/CO-Denver#cityData
+
+Converted Redlining Data from a Geojson file to a CSV file using python (do i include screenshot of that?) 
+
+Did statistical analysis --> Calculated Mean and SD to find Z scores to standardize the measurements, then ran a regression using Excel on the Z scores 
+
+__Method for CDC Disease Analysis__
+
+
