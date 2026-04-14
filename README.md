@@ -23,7 +23,7 @@ __Findings__
 
 ---
 
-#### **2. Clinical Outcome: Routine Doctor Visits**
+ **2. Clinical Outcome: Routine Doctor Visits**
 
 | Statistical Metric | Value | Statistical Significance |
 | :--- | :---: | :--- |
@@ -33,7 +33,7 @@ __Findings__
 
 ---
 
-#### **3. Clinical Outcome: Diagnosed Diabetes**
+ **3. Clinical Outcome: Diagnosed Diabetes**
 
 | Statistical Metric | Value | Statistical Significance |
 | :--- | :---: | :--- |
@@ -42,8 +42,7 @@ __Findings__
 | **P-Value ($p$)** | 0.355 | Not Significant (Trend Only) |
 
 ---
-
-### **Statistics Summary**
+ **Statistics Summary**
 
 | Clinical Measure | Grade A (Best) | Grade B | Grade C | Grade D (Redlined) |
 | :--- | :---: | :---: | :---: | :---: |
