@@ -50,3 +50,6 @@ __Findings__
 | **Diagnosed Diabetes** | 5.4% | 5.8% | 7.3% | 10.1% |
 | **Routine Doctor Visits** | 66.1% | 73.2% | 68.1% | 60.9% |
 | **Cancer (non-skin)** | 5.1% | 5.8% | 6.8% | 3.5%* |
+
+__Discussion__
+Our findings indicate that historical redlining functions as a predictor for certain outcomes. For example, Cancer was shown to be highly significant, and that nearly 30% of the difference in cancer rates across Denver neighborhoods is linked to 1930s housing grades. Additionally, routine doctor visits explained 20.1% of the variance in doctor visits. This shows that historically redlined neighborhoods have the lowest percentage of routine visits, suggesting that policies from ~90 years ago are still preventing people from getting preventative care today. 
