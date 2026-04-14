@@ -16,3 +16,43 @@ __Findings__
 | **Diagnosed Diabetes** | 5.4% | 5.8% | 7.3% | 10.1% |
 | **Routine Doctor Visits** | 66.1% | 73.2% | 68.1% | 60.9% |
 | **Cancer (non-skin)** | 5.1% | 5.8% | 6.8% | 3.5%* |  
+
+### **Individual Regression Analyses**
+
+#### **1. Clinical Outcome: Cancer (Non-Skin) or Melanoma**
+
+| Statistical Metric | Value | Statistical Significance |
+| :--- | :---: | :--- |
+| **Multiple R** | 0.530 | Moderate-to-Strong Correlation |
+| **R-Squared ($R^2$)** | 0.281 | 28.1% of variance explained |
+| **P-Value ($p$)** | **0.002** | **High Significance** |
+
+---
+
+#### **2. Clinical Outcome: Routine Doctor Visits**
+
+| Statistical Metric | Value | Statistical Significance |
+| :--- | :---: | :--- |
+| **Multiple R** | 0.449 | Moderate Correlation |
+| **R-Squared ($R^2$)** | 0.201 | 20.1% of variance explained |
+| **P-Value ($p$)** | **0.013** | **Significant** |
+
+---
+
+#### **3. Clinical Outcome: Diagnosed Diabetes**
+
+| Statistical Metric | Value | Statistical Significance |
+| :--- | :---: | :--- |
+| **Multiple R** | 0.175 | Weak Correlation |
+| **R-Squared ($R^2$)** | 0.031 | 3.1% of variance explained |
+| **P-Value ($p$)** | 0.355 | Not Significant (Trend Only) |
+
+---
+
+### **Descriptive Statistics Summary**
+
+| Clinical Measure | Grade A (Best) | Grade B | Grade C | Grade D (Redlined) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Diagnosed Diabetes** | 5.4% | 5.8% | 7.3% | 10.1% |
+| **Routine Doctor Visits** | 66.1% | 73.2% | 68.1% | 60.9% |
+| **Cancer (non-skin)** | 5.1% | 5.8% | 6.8% | 3.5%* |
