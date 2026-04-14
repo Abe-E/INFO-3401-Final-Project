@@ -17,9 +17,9 @@ __Findings__
 | **Routine Doctor Visits** | 66.1% | 73.2% | 68.1% | 60.9% |
 | **Cancer (non-skin)** | 5.1% | 5.8% | 6.8% | 3.5%* |  
 
-### **Individual Regression Analyses**
 
-#### **1. Clinical Outcome: Cancer (Non-Skin) or Melanoma**
+
+**1. Clinical Outcome: Cancer (Non-Skin) or Melanoma**
 
 | Statistical Metric | Value | Statistical Significance |
 | :--- | :---: | :--- |
