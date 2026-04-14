@@ -55,3 +55,8 @@ __Discussion__
 
 
 Our findings indicate that historical redlining functions as a predictor for certain outcomes. For example, Cancer was shown to be highly significant, and that nearly 30% of the difference in cancer rates across Denver neighborhoods is linked to 1930s housing grades. Additionally, routine doctor visits explained 20.1% of the variance in doctor visits. This shows that historically redlined neighborhoods have the lowest percentage of routine visits, suggesting that policies from ~90 years ago are still preventing people from getting preventative care today. 
+
+
+__Limitations__
+
+There are various limitations due to the nature of the data and method of research. Firstly, geographical boundaries of redlining in Denver from the 1930's does perfectly align with the current neighborhood zip codes. As a result, some redlining area's are in multiple neighborhoods, possibly skewing the data. Additionally, CDC data is self-report data and may not be representative of neighborhoods, and prone to rater and recall bias. Another limitation in this study was the way in which data was standardized.
