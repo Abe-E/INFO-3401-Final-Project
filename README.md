@@ -42,6 +42,7 @@ __Findings__
 | **P-Value ($p$)** | 0.355 | Not Significant (Trend Only) |
 
 ---
+
  **Statistics Summary**
 
 | Clinical Measure | Grade A (Best) | Grade B | Grade C | Grade D (Redlined) |
